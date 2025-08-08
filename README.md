@@ -1,4 +1,4 @@
-# 🧠 Gen AI IITM Tutorials
+# 🧠 Gen AI Tutorials
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-EE4C2C?logo=pytorch)](https://pytorch.org/)
@@ -9,7 +9,7 @@
 
 ## 🚀 Overview
 
-Welcome to **Gen AI IITM Tutorials** – a curated collection of hands-on deep learning notebooks focused on Generative Adversarial Networks (GANs) and their variants. This repository is designed for learners and practitioners who want to master generative modeling using PyTorch, with a special emphasis on clarity, reproducibility, and best engineering practices.
+Welcome to **Gen AI Tutorials** – a curated collection of hands-on deep learning notebooks focused on Generative Adversarial Networks (GANs) and their variants. This repository is designed for learners and practitioners who want to master generative modeling using PyTorch, with a special emphasis on clarity, reproducibility, and best engineering practices.
 
 ---
 
@@ -86,7 +86,7 @@ Gen-AI-Tutorials/
 ## 👨‍💻 Author
 
 **Anirudh Narayan**  
-*Deep Learning Enthusiast | IITM | Open Source Contributor*
+*PhD Student | UMass Amherst | Open Source Contributor*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anirudh-narayan-1b708a241/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/AnirudhNarayan)
