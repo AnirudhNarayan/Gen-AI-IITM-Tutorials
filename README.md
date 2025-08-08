@@ -102,10 +102,4 @@ Gen-AI-Tutorials/
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
-
-> *“Generative AI is the future. Start building it
