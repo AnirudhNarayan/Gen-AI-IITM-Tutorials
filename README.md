@@ -88,7 +88,7 @@ Gen-AI-Tutorials/
 **Anirudh Narayan**  
 *Deep Learning Enthusiast | IITM | Open Source Contributor*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anirudhnarayan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/anirudh-narayan-1b708a241)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/AnirudhNarayan)
 
 ---
