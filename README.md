@@ -1,4 +1,4 @@
-# 🧠 Gen AI IITM Tutorials
+# 🧠 Gen AI Tutorials
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-EE4C2C?logo=pytorch)](https://pytorch.org/)
@@ -168,15 +168,7 @@ Gen-AI-IITM-Tutorials/
 
 ---
 
-## 👨‍💻 Author
 
-**Anirudh Narayan**  
-*Deep Learning Enthusiast | IITM | Open Source Contributor*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anirudhnarayan/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/AnirudhNarayan)
-
----
 
 ## 🏆 Why This Project Stands Out
 
@@ -195,8 +187,8 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ---
 
-## 📄 License
 
+<<<<<<< HEAD
 This project is licensed under the MIT License.
 
 ---
@@ -214,3 +206,5 @@ This project is licensed under the MIT License.
 ---
 
 **⭐ Star this repository if you found it helpful!**
+=======
+>>>>>>> 37f3c643105ea4ebdec33e1bdb91ac798868f849
