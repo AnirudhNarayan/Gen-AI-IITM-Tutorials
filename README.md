@@ -114,19 +114,7 @@ Gen-AI-IITM-Tutorials/
 
 ---
 
-## 🖼️ Sample Results
 
-### GAN Generations
-| Vanilla GAN | DCGAN | Conditional GAN |
-|:-----------:|:-----:|:--------------:|
-| ![Vanilla GAN](GAN_Architectures/generated_images/vanilla_sample.png) | ![DCGAN](GAN_Architectures/generated_images/dcgan_sample.png) | ![cGAN](GAN_Architectures/generated_images/cgan_sample.png) |
-
-### VAE Reconstructions
-| Original | Beta-VAE Reconstruction | Latent Space Visualization |
-|:--------:|:----------------------:|:---------------------------:|
-| ![Original](VAE_Architectures/data/original_sample.png) | ![Beta-VAE](VAE_Architectures/data/reconstruction_sample.png) | ![Latent Space](VAE_Architectures/data/latent_space.png) |
-
----
 
 ## 📚 Learning Outcomes
 
@@ -170,41 +158,6 @@ Gen-AI-IITM-Tutorials/
 
 
 
-## 🏆 Why This Project Stands Out
-
-- **Comprehensive Coverage**: Both GANs and VAEs in one repository
-- **Clean, Industry-Level Code**: Modular design with best practices
-- **Rich Documentation**: In-line explanations and step-by-step tutorials
-- **Research-Ready**: Easy to extend for new architectures and datasets
-- **Production-Ready**: GPU memory management and error handling
-- **Impressive Portfolio**: Showcases advanced generative AI skills
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
----
 
 
-<<<<<<< HEAD
-This project is licensed under the MIT License.
 
----
-
-## 🙏 Acknowledgments
-
-- IITM for providing the learning platform
-- PyTorch team for the excellent deep learning framework
-- The generative AI research community for continuous innovations
-
----
-
-> *"Generative AI is the future. Start building it today!"* 🚀
-
----
-
-**⭐ Star this repository if you found it helpful!**
-=======
->>>>>>> 37f3c643105ea4ebdec33e1bdb91ac798868f849
